@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xpcusion",
+  "name": "XP Cusion",
+  "description": "Gives a baseline of xp that heals slowly",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["cyberpwn"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
